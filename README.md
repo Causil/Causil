@@ -1,6 +1,5 @@
 - 👋 Hola, soy Javier Causil 
 - 👀 Soy matemático apasionado por los datos, por la programación.
-- 
 
 
 DataStudio
