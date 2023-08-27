@@ -1,6 +1,5 @@
 
 | <img src="https://i.ibb.co/mHbQgpL/malla.gif" width="300" height="300">|
-| --- | --- |
 
 [DataStudio](https://datastudio.google.com/s/qqUVApRBXbg)
 [vercelInConstruction](https://my-portfolio-nu-five.vercel.app/)
