@@ -1,5 +1,5 @@
 
-| <ul> <li> 👋 Hola, soy Javier Causil </li> <li> 👀 Soy matemático apasionado por los datos, por la programación. </li> </ul>| <img src="https://i.ibb.co/mHbQgpL/malla.gif" width="300" height="300">|
+| <img src="https://i.ibb.co/mHbQgpL/malla.gif" width="300" height="300">|
 | --- | --- |
 
 [DataStudio](https://datastudio.google.com/s/qqUVApRBXbg)
